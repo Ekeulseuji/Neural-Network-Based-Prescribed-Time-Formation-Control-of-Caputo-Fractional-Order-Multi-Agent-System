@@ -89,7 +89,7 @@ The 2-Dimensional plots intuitively demonstrates how formation control affects t
 .
 
 <div align=center>
-<h2>$H(t)$, $R(t)$, and $\|\hat{\xi}(t)\|$ values over time. 
+<h2>$H(t)$, $R(t)$, and $\|\hat{\xi}(t)\|$ Values Over Time 
 </div>
 
 .
