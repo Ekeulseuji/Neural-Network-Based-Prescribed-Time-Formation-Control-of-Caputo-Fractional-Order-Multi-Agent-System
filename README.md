@@ -34,7 +34,7 @@ as we want the Lyapunov function $H(t)$ to reach 0 for system stability with a p
 </div>
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/0cda892b-a6b4-41a2-9952-c06b454323e5" width="400" height="218" />
+<img src="https://github.com/user-attachments/assets/0cda892b-a6b4-41a2-9952-c06b454323e5" width="420" height="220" />
 </div>
 
 <p align="center">
@@ -47,8 +47,8 @@ The leader (0) and the followers (1, 2, 3, 4).
 </div>
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/2f07b903-bee2-437b-9383-993376878b72" width="420" height="275" />
-<img src="https://github.com/user-attachments/assets/65b6b822-3d35-4db0-86e9-426808269347" width="420" height="275" />
+<img src="https://github.com/user-attachments/assets/2f07b903-bee2-437b-9383-993376878b72" width="325" height="215" />
+<img src="https://github.com/user-attachments/assets/65b6b822-3d35-4db0-86e9-426808269347" width="325" height="215" />
 </div>
 
 .
